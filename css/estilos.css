@@ -1,0 +1,55 @@
+body{
+    background-color: #C4C4C4;
+}
+.uno{
+	width: 50%;
+    height: 30em;
+    margin: 15em;   
+    background-color: green;
+   display: flex;
+   justify-content: center;
+}
+.dos{
+	width: 40em;
+    height: 30em;
+    background-image: url(../img/Los-macacos-generan-inmunidad-contra-la-COVID-19.jpg);   
+   display: flex;     
+}
+.cuatro{
+	width: 30em;
+    height: 30em;
+    background-color: #F0EEEE;
+   display: flex;
+    flex-direction: column;
+   justify-content: center;
+  
+}
+.cinco{
+	width: 25em;
+    height: 30em;
+    margin: 1em;
+    
+    font-family: style script;
+   display: flex;
+   
+   
+}
+.seis{
+	width: 15em;
+    height: 15em;
+    margin: 2em;
+   
+    font-family: style script;
+   display: flex;
+}
+.siete{
+	width: 5em;
+    height: 3em;
+    margin:4em;
+   justify-content: center;
+   background-color:#C4C4C4;  
+    font-family: style script;
+   display: flex;
+   border-radius: 25px;
+   
+}
